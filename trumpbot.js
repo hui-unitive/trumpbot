@@ -1,6 +1,6 @@
 var SlackBot = require('slackbots');
 var bot = new SlackBot({
-    token: 'xoxb-70734356564-7UaHzs2p0enqPhSGPYw5EqeK', // put the token
+    token: 'YOUR_TOKEN', // put the token
     name: 'trumpbot'
 });
 
